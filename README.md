@@ -9,4 +9,4 @@ A lot of inspirations come from Jimmy Vegas's Youtube series.
 
 Have fun!
 
-Check the Demo Video:https://youtu.be/UnqqEooDTig
+Check the Demo Video: https://youtu.be/UnqqEooDTig
