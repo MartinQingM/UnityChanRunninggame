@@ -1,5 +1,7 @@
 # UnityChanRunninggame
-A small running game with Unity Chan
+A small running game with Unity Chan for our Animation course project.
+
+Hands on Unity 3D.
 
 This game contain three levels.
 
